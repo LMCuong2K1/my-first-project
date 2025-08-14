@@ -234,13 +234,13 @@ Nếu bạn gặp lỗi, hãy [tạo issue](https://github.com/[username]/Barber
 
 ##  Roadmap
 
-### v2.0 (Q3 2024)
+### v2.0 (Q3 2026)
 - [ ] Web API với ASP.NET Core
 - [ ] React.js Frontend
 - [ ] JWT Authentication
 - [ ] Real-time notifications
 
-### v3.0 (Q4 2024)
+### v3.0 (Q4 2026)
 - [ ] Mobile App (React Native)
 - [ ] Payment Integration
 - [ ] Advanced Analytics
@@ -265,9 +265,9 @@ Dự án này được phân phối dưới MIT License. Xem file [LICENSE](LICE
 
 ##  Liên Hệ
 
-- **Email**: your.email@example.com
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
+- **Email**: lmc22112001@gmail.com
+- **GitHub**: [@LMCuong2K1](https://github.com/LMCuong2K1)
+- **LinkedIn**:
 
 ##  Cảm Ơn
 
