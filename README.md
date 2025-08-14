@@ -234,13 +234,13 @@ Nếu bạn gặp lỗi, hãy [tạo issue](https://github.com/[username]/Barber
 
 ##  Roadmap
 
-### v2.0 (Q3 2026)
+### v2.0 (Coming Soon)
 - [ ] Web API với ASP.NET Core
 - [ ] React.js Frontend
 - [ ] JWT Authentication
 - [ ] Real-time notifications
 
-### v3.0 (Q4 2026)
+### v3.0 (Coming Soon)
 - [ ] Mobile App (React Native)
 - [ ] Payment Integration
 - [ ] Advanced Analytics
